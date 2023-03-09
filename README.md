@@ -18,6 +18,3 @@ If the `pre_trained` variable is set to `True`, the Transfer Learning model is e
 ### References
 Aditya Khosla, Akhil S. Raju, Antonio Torralba, and Aude Oliva. Understanding and predicting image memorability at
 a large scale. In 2015 IEEE International Conference on Computer Vision (ICCV), pages 2390–2398, 2015.
-
-
-# Image-Memorability
